@@ -12,7 +12,7 @@ I have everything related to my studies in <a href="https://github.com/jmramirez
 
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-lightgrey?style=for-the-badge)](#) [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-lightgrey?style=for-the-badge)](#) [![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-lightgrey?style=for-the-badge)](#) [![Backend](https://img.shields.io/badge/-Backend-lightgrey?style=for-the-badge)](#) [![WebApps](https://img.shields.io/badge/-WebApps-lightgrey?style=for-the-badge)](#) [![Y más](https://img.shields.io/badge/-And%20much%20more!-white?style=for-the-badge)](#)
 
-I am also doing some side projects you can check on my <a href="www.jmramirez.tk">blog</a>.
+I am also doing some side projects you can check on my <a href="https://www.jmramirez.tk">blog</a>.
 
 ### I code comfortably with the next languages
 
