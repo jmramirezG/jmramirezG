@@ -12,7 +12,7 @@ Tengo disponible todo lo cursado en el Grado en <a href="https://github.com/jmra
 
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-lightgrey?style=for-the-badge)](#) [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-lightgrey?style=for-the-badge)](#) [![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-lightgrey?style=for-the-badge)](#) [![Backend](https://img.shields.io/badge/-Backend-lightgrey?style=for-the-badge)](#) [![WebApps](https://img.shields.io/badge/-WebApps-lightgrey?style=for-the-badge)](#) [![Y más](https://img.shields.io/badge/-Y%20más!-white?style=for-the-badge)](#)
 
-A su vez, llevo varios proyectos que iré subiendo poco a poco en mi <a href="www.jmramirez.tk">página personal</a>.
+A su vez, llevo varios proyectos que iré subiendo poco a poco en mi <a href="https://www.jmramirez.tk">página personal</a>.
 
 ### Trabajo cómodamente con los siguientes lenguajes...
 
